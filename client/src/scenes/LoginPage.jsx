@@ -13,7 +13,7 @@ const LoginPage = () => {
                 textAlign="center"
             >
                 <Typography fontWeight="bold" variant="h1"  color="primary">
-                        Sociopedoia
+                        PESbook
                 </Typography>
             </Box>
         
@@ -26,7 +26,7 @@ const LoginPage = () => {
                 backgroundColor={theme.palette.background.alt}
             >
                 <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-                    Welcome to Sociopedia, the social Media for Sociopaths!
+                    Welcome to PESbook, the social Media for PESU Students!
                 </Typography>
                 <Form />
             </Box>
